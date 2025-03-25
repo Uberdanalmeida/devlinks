@@ -1,52 +1,31 @@
-<h1 align="center"> DevLinks </h1>
+![Projeto Devlinks](imagens/devlink.png)
 
-<p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
-<a href="https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito">Estude esse projeto em formato de vídeo clicando aqui.</a>
-</p>
+# Projeto de Perfil Social
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
+Este projeto é uma página de perfil social simples, desenvolvida usando HTML, CSS e JavaScript. Ele apresenta informações básicas do usuário, links para suas redes sociais e um switch de tema claro/escuro.
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
+## Estrutura do Projeto
 
-<br>
+O projeto é composto pelos seguintes arquivos:
 
-<p align="center">
-  <img alt="projeto DevLinks" src="foto perfil.jpg" width="100px">
-</p>
+* `index.html`: Estrutura HTML da página.
+* `style.css`: Estilos CSS para a página.
+* `script.js`: Lógica JavaScript para interatividade.
+* `imagens/`: Diretório contendo as imagens de perfil (`foto uber.jpg` e `foto perfil.jpg`).
 
-## 🚀 Tecnologias
+## Funcionalidades
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+* Exibição de foto de perfil e nome do usuário.
+* Links para perfis do GitHub, LinkedIn e portfólio.
+* Links para o Explorer da Rocketseat.
+* Ícones de redes sociais (GitHub e LinkedIn).
+* Switch de tema claro/escuro com mudança de imagem de perfil.
+* Rodapé com informações de copyright.
 
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
+## Tecnologias Utilizadas
 
-## 💻 Projeto
-
-O DevLinks é um agregador de links para usar como cartão de visitas online.
-
-- [Acesse o projeto finalizado, online](https://Uberdanalmeida.github.io/Devlink)
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1187422022288947321). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
-
----
-
-Desenvolvido por Uberdan Almeida através da Rocketseat.
+* HTML5
+* CSS3
+* JavaScript
+* Icones de Ion Icons
+* Fontes do Google Fonts
