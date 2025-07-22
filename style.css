@@ -153,6 +153,18 @@ footer {
         --bg-url: url(assets/bg-desktop-light.jpg);
     }
 }
+
+@media (max-width:480px) {
+    body {
+        height: 100%;
+        width: 100%;
+    }
+
+    #container {
+        height: 100%;
+        width: 100%;
+    }
+}
 /*animation*/
 @keyframes slide-in {
     from {
